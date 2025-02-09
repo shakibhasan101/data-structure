@@ -1,0 +1,12 @@
+Traverse
+insertion
+delation
+search
+	-Linear 
+	-binary
+update
+sorting
+	-Bubble 
+	-Selection
+	-Insertion                         
+merging
