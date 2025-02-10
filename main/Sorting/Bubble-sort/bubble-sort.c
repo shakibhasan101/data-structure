@@ -30,7 +30,7 @@ int i, j;
 
 for (j=lb; j<ub; j++)
 {
-    for (i=lb; i<ub; i++)
+    for (i=lb; i<ub-j-1; i++)
     {
         if(a[i]>a[i+1])
         {
