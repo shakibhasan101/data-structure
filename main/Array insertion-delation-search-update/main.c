@@ -45,8 +45,8 @@ void update(int a [], int lb, int ub, int privious_value, int new_value)
 
 int main()
 {
-display_data(a, lb, ub);
-insert_data(a, lb, ub);
+display_data(a, lb, ub);//0000000
+insert_data(a, lb, ub);//
 display_data(a, lb, ub);
 insertion(a, lb, ub, 3, 98);
 display_data(a, lb, ub+1);

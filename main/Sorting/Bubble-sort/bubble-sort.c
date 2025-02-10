@@ -28,7 +28,7 @@ void bubble_sort(int a[], int lb, int ub)
 {
 int i, j;
 
-for (j=lb; j<ub; j++)
+for (j=lb; j<ub-1; j++)
 {
     for (i=lb; i<ub-j-1; i++)
     {
